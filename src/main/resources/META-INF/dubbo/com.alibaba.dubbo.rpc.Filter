@@ -1,0 +1,1 @@
+authorizationFilter=cn.gov.zcy.dubbo.filter.AuthorizationFilter
