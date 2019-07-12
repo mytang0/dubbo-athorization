@@ -1,1 +1,1 @@
-authorizationFilter=cn.gov.zcy.dubbo.filter.AuthorizationFilter
+authorizationFilter=org.luming.dubbo.filter.AuthorizationFilter

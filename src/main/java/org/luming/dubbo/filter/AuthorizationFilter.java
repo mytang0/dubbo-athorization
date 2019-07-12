@@ -1,4 +1,4 @@
-package cn.gov.zcy.dubbo.filter;
+package org.luming.dubbo.filter;
 
 import com.alibaba.dubbo.common.Constants;
 import com.alibaba.dubbo.common.extension.Activate;

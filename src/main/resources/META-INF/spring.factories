@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  cn.gov.zcy.dubbo.filter.AuthorizationAutoConfigure
+  org.luming.dubbo.filter.AuthorizationAutoConfigure

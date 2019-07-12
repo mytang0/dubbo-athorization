@@ -1,4 +1,4 @@
-package cn.gov.zcy.dubbo.filter;
+package org.luming.dubbo.filter;
 
 import java.net.InetAddress;
 import java.util.regex.Pattern;

@@ -1,4 +1,4 @@
-package cn.gov.zcy.dubbo.filter;
+package org.luming.dubbo.filter;
 
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
